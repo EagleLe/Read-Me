@@ -1,4 +1,4 @@
-### [My GitHub](https://github.com/EagleLe
+### [My GitHub](https://github.com/EagleLe)
 ## Description
 Create a working README Generator
 ## Features
